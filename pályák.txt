@@ -2,3 +2,5 @@ f1
 hungaroring
 monza
 suzuka
+wtcr
+macao
